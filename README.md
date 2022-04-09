@@ -1,7 +1,10 @@
 # Soccer
 Nama Kelompok:
+
 2440051725 - I Putu Ronny Eka Wicaksana
+
 2401955100 - Jason Christian
+
 2440021905 - Bertrand
 
 
@@ -16,13 +19,11 @@ Abstract Class Pemain diturunkan menggunakan Inheritance ke Class Penyerang, Gel
 
 
 
-Class diagram :
-
-
-
-
 
 pembagian job per individu :
+
 Ronny : membuat Validasi di tiap fungsi, membuat fungsi add, fungsi latih.
+
 Bertrand : membuat Class Pemain, Class Penyerang, membuat view.
+
 Jason : membuat Class Gelandang, Class Bek, Class Kiper, membuat fungsi delete.
